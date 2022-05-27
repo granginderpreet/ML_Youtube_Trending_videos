@@ -1,0 +1,14 @@
+Flask
+Jinja2
+numpy
+plotly
+joblib
+pandas
+psycopg2
+requests
+SQLAlchemy
+urllib3
+Werkzeug
+tensorflow
+keras
+scikit-learn==0.24.2
